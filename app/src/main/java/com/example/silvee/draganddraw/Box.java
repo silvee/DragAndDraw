@@ -10,7 +10,7 @@ import java.io.Serializable;
  * Created by silvee on 16.01.2018.
  */
 
-public class Box implements {
+public class Box {
     private PointF origin;
     private PointF current;
 

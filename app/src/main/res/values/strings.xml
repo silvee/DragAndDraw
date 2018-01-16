@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DragAndDraw</string>
+    <string name="animation_fragment">Show animation</string>
+    <string name="boxes_fragment">Draw boxes</string>
 </resources>
