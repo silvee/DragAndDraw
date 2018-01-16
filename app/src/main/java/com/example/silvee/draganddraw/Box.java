@@ -1,12 +1,16 @@
 package com.example.silvee.draganddraw;
 
 import android.graphics.PointF;
+import android.os.Parcel;
+import android.os.Parcelable;
+
+import java.io.Serializable;
 
 /**
  * Created by silvee on 16.01.2018.
  */
 
-public class Box {
+public class Box implements {
     private PointF origin;
     private PointF current;
 
@@ -26,4 +30,6 @@ public class Box {
     public void setCurrent(PointF current) {
         this.current = current;
     }
+
+
 }
